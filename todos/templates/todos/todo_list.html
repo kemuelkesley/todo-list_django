@@ -20,7 +20,7 @@
     <main class="container">
         <h1>Lista de Tarefas</h1>
 
-        {% if todos %}
+        {% if todo_list %}
             <table class="table">
                 <thead>
                 <tr>
@@ -33,7 +33,7 @@
                 </tr>
                 </thead>
                 <tbody>
-                    {% for todo in todos %}
+                    {% for todo in todo_list %}
                         <tr>
                             <th scope="row">{{ todo.pk }}</th>
                             <td>{{ todo.title }}</td>
@@ -51,6 +51,8 @@
         {% else %}
             <p>Não há Tarefas Cadastradas</p>
         {% endif %}
+        
+        <a href="{% url 'todo_create' %}" class="btn btn-primary">Nova tarefa</a>
     </main>
 
 
