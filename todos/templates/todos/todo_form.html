@@ -2,17 +2,28 @@
 {% load crispy_forms_tags %}
 
 {% block page_title %}
-    Nova Tarefa
+
+    {% if todo.pk %}
+        Editar Tarefa
+    {% else %}
+        Nova Tarefa    
+    {% endif %}
+
 {% endblock page_title %}
 
 {% block content %}
-    <h1>Nova Tarefa</h1>
+    {% if todo.pk %}
+        <h1>Editar Tarefa</h1>
+    {% else %}
+        <h1>Nova Tarefa</h1>
+    {% endif %}
+        
 
         <form method="POST" action="">
             {% csrf_token %}
 
             {{ form|crispy }}
-            
+
             <button type="submit" class="btn btn-primary">Salvar</button>
         </form>
 {% endblock content %}   
