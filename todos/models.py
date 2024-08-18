@@ -17,3 +17,6 @@ class Todo(models.Model):
         if not self.finished_at:
             self.finished_at = date.today()
             self.save()
+
+    def __str__(self):
+        return self.title
