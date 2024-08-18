@@ -30,6 +30,23 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 - **[Git](https://git-scm.com/)**: Controle de versão para gerenciamento do código-fonte.
 - **[Banco SQLITE](https://git-scm.com/)**: Controle de versão para gerenciamento do código-fonte.
 
+
+## Demonstrações
+
+Aqui estão alguns GIFs que demonstram funcionalidades importantes do projeto:
+
+ **Criando uma Tarefa**:
+
+ ![Criando tarefa](https://github.com/user-attachments/assets/63f07d6b-2256-4bd2-9ac0-b41f2354bd74)
+
+ 
+- **Funcionalidade 2**:
+  ![Nome da Funcionalidade 2](caminho/para/seu-gif2.gif)
+
+- **Funcionalidade 3**:
+  ![Nome da Funcionalidade 3](caminho/para/seu-gif3.gif)
+
+
 ## Como Executar o Projeto
 
 1. Clone o repositório:
