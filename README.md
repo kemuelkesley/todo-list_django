@@ -63,17 +63,22 @@ Aqui estão alguns GIFs que demonstram funcionalidades importantes do projeto:
 
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/seu-projeto.git
+    https://github.com/kemuelkesley/todo-list_django.git
     ```
 
 2. Acesse o diretório do projeto:
     ```bash
-    cd seu-projeto
+    cd todo-list_django
     ```
 
 3. Crie um ambiente virtual e ative-o:
     ```bash
+    Criando ambiente virtutal:
+    
     python -m venv venv
+
+    Ativando ambiente Virtual
+    
     # No Linux source venv/bin/activate  # No Windows use `venv\Scripts\activate`
     ```
 
