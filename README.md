@@ -28,24 +28,36 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 - **[CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)**: Estilização da interface do usuário.
 - **[Bootstrap 5.0](https://getbootstrap.com/)**: Framework CSS para design responsivo e componentes UI.
 - **[Git](https://git-scm.com/)**: Controle de versão para gerenciamento do código-fonte.
-- **[Banco SQLITE](https://git-scm.com/)**: Controle de versão para gerenciamento do código-fonte.
+- **[Banco SQLITE](https://git-scm.com/)**: Armazenamento de dados do projeto.
 
 
 ## Demonstrações
 
 Aqui estão alguns GIFs que demonstram funcionalidades importantes do projeto:
 
- **Criando uma Tarefa**:
+### Criando uma Tarefa
 
- ![Criando tarefa](https://github.com/user-attachments/assets/63f07d6b-2256-4bd2-9ac0-b41f2354bd74)
+![Criando tarefa](https://github.com/user-attachments/assets/63f07d6b-2256-4bd2-9ac0-b41f2354bd74)
 
- 
-- **Funcionalidade 2**:
-  ![Nome da Funcionalidade 2](caminho/para/seu-gif2.gif)
+&nbsp;
 
-- **Funcionalidade 3**:
-  ![Nome da Funcionalidade 3](caminho/para/seu-gif3.gif)
+### Editar Tarefa
 
+![Editar](https://github.com/user-attachments/assets/e8bf990d-ee54-429d-aff1-3fb7ab41921d)
+
+&nbsp;
+
+### Concluir Tarefa
+
+![Concluir](https://github.com/user-attachments/assets/aec5a287-7416-49b2-aa93-397e6b10517e)
+
+&nbsp;
+
+### Excluir Tarefa
+
+![Excluir](https://github.com/user-attachments/assets/fea1dbcf-865a-465f-a386-ff990d31271b)
+
+&nbsp;
 
 ## Como Executar o Projeto
 
