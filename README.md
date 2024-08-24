@@ -33,10 +33,15 @@ Este projeto foi construído utilizando as seguintes tecnologias:
 
 ## Screens
 
-|                                            Criar-tarefa                                           |                                       Editar-tarefa                                      |                                        Concluir-tarefa                                       |                                        Excluir-tarefa                                       |
-|:--------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------:|
-| ![Criando tarefa](https://github.com/user-attachments/assets/63f07d6b-2256-4bd2-9ac0-b41f2354bd74) | ![Editar](https://github.com/user-attachments/assets/e8bf990d-ee54-429d-aff1-3fb7ab41921d) | ![Concluir](https://github.com/user-attachments/assets/aec5a287-7416-49b2-aa93-397e6b10517e) | ![Excluir](https://github.com/user-attachments/assets/fea1dbcf-865a-465f-a386-ff990d31271b) |
+| Criar-tarefa                                                                                       | Editar-tarefa                                                                              |
+|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| ![criar](https://github.com/user-attachments/assets/b3162221-0564-465b-a104-1dbe98678740) | ![editar](https://github.com/user-attachments/assets/ed594837-458f-41eb-8d89-e03ceff4021f) |
 
+&nbsp;
+
+| Concluir-tarefa                                                                                       | Excluir-tarefa                                                                              |
+|----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+| ![concluir](https://github.com/user-attachments/assets/45424cce-0b71-4bc9-8617-dbafd8422e5e) | ![excluir](https://github.com/user-attachments/assets/e5051f93-80b8-476a-ba25-b1be35319418) |
 
 &nbsp;
 
